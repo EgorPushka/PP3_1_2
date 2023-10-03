@@ -1,13 +1,13 @@
-package com.example.pp3_1_2;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Pp312Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Pp312Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.example.pp3_1_2.models;
+package com.example.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
@@ -7,7 +7,7 @@ import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Size;
 
 @Entity
-@Table(name = "users")
+@Table(name = "users2")
 public class User {
 
     @Id

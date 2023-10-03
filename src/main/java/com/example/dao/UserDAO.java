@@ -1,7 +1,7 @@
-package com.example.pp3_1_2.dao;
+package com.example.dao;
 
 
-import com.example.pp3_1_2.models.User;
+import com.example.models.User;
 
 import java.util.List;
 

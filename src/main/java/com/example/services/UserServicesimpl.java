@@ -1,7 +1,7 @@
-package com.example.pp3_1_2.services;
+package com.example.services;
 
-import com.example.pp3_1_2.dao.UserDAO;
-import com.example.pp3_1_2.models.User;
+import com.example.dao.UserDAO;
+import com.example.models.User;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
